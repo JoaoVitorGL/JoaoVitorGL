@@ -1,4 +1,4 @@
-<h1 align="left">Olá, me chamo João Vitor Gouveia.</h1>
+<h1 align="left">Olá! me chamo João Vitor Gouveia.</h1>
 
 ### Sobre mim
 
